@@ -26,7 +26,7 @@ This project analyses the audience engagement to an email using a know dataset a
 
 ## Tech Stack
 
-- **Language**: Python 3
+- **Language**: Python
 - **Libraries**:
   - pandas, numpy
   - scikit-learn
